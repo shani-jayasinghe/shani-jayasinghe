@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shaanijayasinghe14@gmail.com**
   
-<p align= "right"> <img src="https://media.tenor.com/WC8oc8aG3xgAAAAj/work-office.gif" />
+<p align= "center"> <img src="https://media.tenor.com/WC8oc8aG3xgAAAAj/work-office.gif" />
 
 ---
 

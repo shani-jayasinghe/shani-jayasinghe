@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shani-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="shani-jayasinghe" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@shaani__](https://medium.com/@shaani__)
 
